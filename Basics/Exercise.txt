@@ -1,0 +1,3 @@
+1. The terminal is a system inside the MAC that allows you to quickly access folders and files and other items from within the computer.
+2. Git is the local method in which users move source code, while GitHub is the online website where those user can push and pull code.
+3. It gives the programmers the ability to collaborate with other programmers through its Version Control Systems.
